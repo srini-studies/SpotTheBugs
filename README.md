@@ -1,4 +1,3 @@
-'''
 # SpotTheBugs
 Test Automation project using .Net, NUnit and Playwright to execute test cases for SpotTheBugs
 
@@ -119,7 +118,7 @@ Test Cases
 		  </RunConfiguration>
 		</RunSettings>
 
-
+'''
 8.  Project Structure
 
 	SpotTheBugs
@@ -137,5 +136,4 @@ Test Cases
 	├── appsettings.json                      # Configuration file for test environment - web application Url
 	├── test.runsettings                      # Test settings file for test execution
 	└── TestConfiguration.cs                  # Test configurations mapping from appsettings.json
-
 '''
