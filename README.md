@@ -110,6 +110,7 @@ Test Cases
 	7.3 appsettings.json
 		Specify Url needed to be tested in appsettings.json file
 		[Url: https://qa-practice.netlify.app/bugs-form]
+	</pre>
 
 	7.4. Run Settings file for Parallelisation:
 	
@@ -118,7 +119,7 @@ Test Cases
 		    <MaxCpuCount>4</MaxCpuCount>
 		  </RunConfiguration>
 		</RunSettings>
-</pre>
+
 
 '''
 8.  Project Structure
@@ -138,4 +139,10 @@ Test Cases
 	├── appsettings.json                      # Configuration file for test environment - web application Url
 	├── test.runsettings                      # Test settings file for test execution
 	└── TestConfiguration.cs                  # Test configurations mapping from appsettings.json
+
+
+9.  Future Enhancements:
+	
+		1. BDD using Reqnroll
+		2. Github Actions Workflow
 '''
