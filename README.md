@@ -1,3 +1,4 @@
+'''
 # SpotTheBugs
 Test Automation project using .Net, NUnit and Playwright to execute test cases for SpotTheBugs
 
@@ -117,6 +118,7 @@ Test Cases
 		    <MaxCpuCount>4</MaxCpuCount>
 		  </RunConfiguration>
 		</RunSettings>
+'''
 
 '''
 8.  Project Structure
